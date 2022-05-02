@@ -1,0 +1,36 @@
+input[type="text"], 
+input[type="email"], 
+input[type="tel"], 
+input[type="number"], 
+input[type="date"], 
+input[type="password"], .form-text {
+    display: inline-block;
+    border: solid 1px #CCCCCC;
+    padding: .6rem;
+}
+
+select, .form-select {
+    display: inline-block;
+    border: solid 1px #CCCCCC;
+    padding: .6rem;
+}
+
+textarea, .form-textarea {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    max-height: 400px;
+    overflow-y: scroll;
+}
+
+input[type="submit"], .form-submit {
+    display: inline-block;
+}
+
+label, .form-label {
+    display: inline-block;
+}
+
+input[type="checkbox"], .form-checkbox {
+    display: inline-block;
+}

@@ -1,0 +1,43 @@
+:root {
+    /*TEXT*/
+    --fs-small: 13px;
+    --fs-base: 16px;
+    --fs-large: 19px;
+    --ff-1: "Verdana";
+    --ff-2: "Arial";
+    --txt-color-1: #000000;
+    --txt-color-2: #7b67e7;
+    /*COLORS*/
+    --bg-1: #279ab4;
+    --bg-2: #4b26c5;
+    --bg-3: #7b67e7;
+    /*BUTTONS*/
+    --btn-border-1: #279ab4;
+    --btn-border-2: #4b26c5;
+    --btn-border-3: #7b67e7;
+    --btn-bg-1: #279ab4;
+    --btn-bg-2: #4b26c5;
+    --btn-bg-3: #7b67e7;
+    /*INPUTS*/
+    --input-border-1: #279ab4;
+    --input-border-2: #4b26c5;
+    --input-border-3: #7b67e7;
+    /*MESSAGES*/
+    --message-color-1: #1e8746;
+    --message-color-2: #ec3942;
+    --message-color-3: #e4dd15;
+    --message-bg-1: #92e9b3;
+    --message-bg-2: #e97e83;
+    --message-bg-3: #f5f3bc;
+    /*GUTTERS*/
+    --flex-gutter-1: 1rem;
+    --flex-gutter-2: 2rem;
+    --grid-gutter-1: 1rem;
+    --grid-gutter-2: 2rem;
+
+  }
+
+/*MEDIA QUARIES*/
+$break-sd: 567px;
+$break-md: 992px;
+$break-hd: 1280px;
